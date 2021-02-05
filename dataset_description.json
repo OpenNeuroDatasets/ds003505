@@ -1,0 +1,17 @@
+{ 
+    "Name": "VEPCON: Source imaging of high-density visual evoked potentials with multi-scale brain parcellations and connectomes", 
+    "BIDSVersion":  "1.4.2", 
+    "License": "CC0", 
+    "Authors": ["David Pascucci",
+                "Sebastien Tourbier",
+                "Joan Rué-Queralt",
+                "Margherita Carboni",
+                "Patric Hagmann",
+                "Gijs Plomp"], 
+    "Acknowledgements": "say here what are your acknowledgments", 
+    "HowToAcknowledge": "say here how you would like to be acknowledged", 
+    "Funding": ["This research was supported by Swiss National Science Foundation grants PP00P1_183714, PP00P1_190065 and CRSII5-170873."], 
+    "ReferencesAndLinks": ["a data paper",
+                           "a resource to be cited when using the data"], 
+    "DatasetDOI": "10.0.2.3/dfjj.10"
+}
