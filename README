@@ -2,7 +2,7 @@
 
 ## Overview
 
-The multimodal dataset VEPCON follows the BIDS standard and provides derivatives and raw data of high-density EEG, structural MRI and diffusion weighted images (DWI) recorded in 20 participants.
+The multimodal dataset VEPCON follows the BIDS standard and provides raw data of high-density EEG, structural MRI and diffusion weighted images (DWI) recorded in 20 participants and derivatives.
 
 Visual evoked potentials were recorded while participants discriminated briefly presented faces from scrambled faces, or coherently moving stimuli from incoherent ones. MRI and DWI were recorded in a separate session from the same participants.
 
