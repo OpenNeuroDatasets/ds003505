@@ -17,7 +17,8 @@
     ],
     "ReferencesAndLinks": [
         "a data paper",
-        "a resource to be cited when using the data"
+        "a resource to be cited when using the data",
+        "forthcoming"
     ],
     "DatasetDOI": "10.18112/openneuro.ds003505.v1.0.0"
 }
