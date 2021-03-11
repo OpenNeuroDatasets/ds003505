@@ -1,3 +1,5 @@
+1.0.1 2021-03-11
+  - Review dataset informations and add two new .mat files in eeglab derivatives
 2020-10-11
     Initial upload of raw and cmp-derived MRI data
 2020-14-12
