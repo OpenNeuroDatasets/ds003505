@@ -16,9 +16,8 @@
         "This research was supported by Swiss National Science Foundation grants PP00P1_183714, PP00P1_190065 and CRSII5-170873."
     ],
     "ReferencesAndLinks": [
-        "a data paper",
-        "a resource to be cited when using the data",
-        "forthcoming"
+        "forthcoming",
+        "https://www.biorxiv.org/content/10.1101/2021.03.16.435599v1"
     ],
     "DatasetDOI": "10.18112/openneuro.ds003505.v1.0.1",
     "EthicsApprovals": [
