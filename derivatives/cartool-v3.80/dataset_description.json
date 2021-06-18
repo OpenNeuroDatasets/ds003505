@@ -1,0 +1,9 @@
+{
+    "Name": "Cartool Outputs (v3.80)",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "derivatives",
+    "GeneratedBy": {
+        "Name": "cartool",
+        "Version": "3.80",        
+    }
+}
