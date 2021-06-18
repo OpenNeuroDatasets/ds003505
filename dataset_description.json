@@ -1,11 +1,11 @@
 {
     "Name": "VEPCON: Source imaging of high-density visual evoked potentials with multi-scale brain parcellations and connectomes",
-    "BIDSVersion": "1.4.2",
+    "BIDSVersion": "1.6.0",
     "License": "CC0",
     "Authors": [
         "David Pascucci",
         "Sebastien Tourbier",
-        "Joan Ru\u00e9-Queralt",
+        "Joan Rue-Queralt",
         "Margherita Carboni",
         "Patric Hagmann",
         "Gijs Plomp"
@@ -19,7 +19,7 @@
         "forthcoming",
         "https://www.biorxiv.org/content/10.1101/2021.03.16.435599v1"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003505.v1.0.1",
+    "DatasetDOI": "10.18112/openneuro.ds003505.v1.0.2",
     "EthicsApprovals": [
         ""
     ]
