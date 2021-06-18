@@ -1,0 +1,21 @@
+{
+    "InstitutionAddress": "Rue de Faucigny 2, CH-1700 Fribourg, Switzerland",
+    "InstitutionName": "University of Fribourg",
+    "InstitutionalDepartmentName": "Perceptual Networks, Department of Psychology",
+    "PowerLineFrequency": 50,
+    "ManufacturersModelName": "ActiveTwo",
+    "EEGReference": "CMS/DRL",
+    "Manufacturer": "BIOSEMI",
+    "EEGChannelCount": 128,
+    "MiscChannelCount": 0,
+    "RecordingType": "continuous",
+    "SamplingFrequency": 2048,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "SoftwareFilters": "n/a",
+    "TaskName": "faces",
+    "PropChanRem": 0.1953125,
+    "PropEpoRem": 0.00666666666666671,
+    "PropIcaRem": 0.087378640776699
+}

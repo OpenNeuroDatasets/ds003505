@@ -1,0 +1,9 @@
+{
+    "Name": "EEGLAB Outputs (v14.1.1)",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "derivatives",
+    "GeneratedBy": {
+        "Name": "EEGLAB",
+        "Version": "14.1.1",        
+    }
+}
