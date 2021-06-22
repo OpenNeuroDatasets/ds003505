@@ -1,7 +1,6 @@
 {
     "InstitutionAddress": "Rue de Faucigny 2, CH-1700 Fribourg, Switzerland",
     "InstitutionName": "University of Fribourg",
-    "InstitutionalDepartmentName": "Perceptual Networks, Department of Psychology",
     "PowerLineFrequency": 50,
     "ManufacturersModelName": "ActiveTwo",
     "EEGReference": "CMS/DRL",
@@ -14,8 +13,5 @@
     "ECGChannelCount": 0,
     "EMGChannelCount": 0,
     "SoftwareFilters": "n/a",
-    "TaskName": "faces",
-    "PropChanRem": 0.0546875,
-    "PropEpoRem": 0.0133333333333333,
-    "PropIcaRem": 0.0413223140495868
+    "TaskName": "faces"
 }
