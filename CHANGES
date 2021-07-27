@@ -1,8 +1,7 @@
-1.0.2 2021-18-06
+1.0.2 2021-27-07
     - Add raw EEG data in .bdf format
-    - Review organization and naming of EEG derivatives data to make it more bids-ish.
+    - Review organization and naming of EEG derivatives data to make it more BIDS-ish.
     - Improve code and associated documentation
-    - Add EEG ROI time courses derivatives in derivatives/vepcon_esi-1.1
 1.0.1 2021-03-11
     - Review dataset informations and add two new .mat files in eeglab derivatives
 2020-10-11
