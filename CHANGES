@@ -1,3 +1,5 @@
+1.0.3 2021-12-06
+  - Correction of electrodes location in Eeglab .set files, now consistent with the coregistration files in Cartool.
 1.0.2 2021-07-27
   - Add raw EEG data in .bdf format
   - Review organization and naming of EEG derivatives data to make it more BIDS-ish.
