@@ -8,4 +8,4 @@ Visual evoked potentials were recorded while participants discriminated briefly 
 
 VEPCON also contains data derivatives that follow as close as possible the BIDS derivatives specifications. It includes in particular: pre-processed EEG of single trials in each condition, behavioral measures, structural MRIs, individual brain parcellations at 5 spatial resolutions (83 to 1015 regions), and corresponding structural connectomes based on fiber count, fiber density, average fractional anisotropy and mean diffusivity maps. In addition, we provide EEG inverse solutions for source imaging based on individual anatomy, and Python and Matlab code for deriving time-series of activity in each brain region, at each parcellation level.
 
-This dataset can contribute to multimodal methods development, studying structure-function relations, as well as unimodal optimization of source imaging and graph analysis, among many other possibilities. 
+This dataset can contribute to multimodal methods development, studying structure-function relations, as well as unimodal optimization of source imaging and graph analysis, among many other possibilities.
