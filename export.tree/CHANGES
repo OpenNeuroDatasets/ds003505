@@ -1,0 +1,12 @@
+1.0.1 2021-03-11
+  - Review dataset informations and add two new .mat files in eeglab derivatives
+2020-10-11
+    Initial upload of raw and cmp-derived MRI data
+2020-14-12
+    Update with defaced raw and cmp-derived MRI data
+2020-14-12
+    Upload of EEG data
+2021-03-02
+    Upload of MRIQC dervivatives for quality assessment of T1w MRI data
+2021-04-02
+    Update main README, CHANGES and dataset_description.json
