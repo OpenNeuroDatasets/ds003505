@@ -1,0 +1,17 @@
+{
+    "Name": "Freesurfer Outputs of CMP3 (v3.0.3)",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "derivatives",
+    "GeneratedBy": [
+        {
+            "Name": "freesurfer",
+            "Version": "6.0.1",
+            "Container": {
+                "Type": "docker",
+                "Tag": "sebastientourbier/connectomemapper-bidsapp:v3.0.3"
+            },
+            "CodeURL": "https://github.com/connectomicslab/connectomemapper3/tree/v3.0.3"
+        }
+    ],
+    "License": "TODO: To be updated (See https://creativecommons.org/about/cclicenses/)"
+}

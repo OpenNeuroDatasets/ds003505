@@ -10,13 +10,13 @@
         "Patric Hagmann",
         "Gijs Plomp"
     ],
-    "Acknowledgements": "say here what are your acknowledgments",
-    "HowToAcknowledge": "Please cite the associated data paper",
+    "Acknowledgements": "",
+    "HowToAcknowledge": "Please cite the associated scientific data paper: Pascucci, D., Tourbier, S., Rué-Queralt, J. et al. Source imaging of high-density visual evoked potentials with multi-scale brain parcellations and connectomes. Sci Data 9, 9 (2022). https://doi.org/10.1038/s41597-021-01116-1",
     "Funding": [
         "This research was supported by Swiss National Science Foundation grants PP00P1_183714, PP00P1_190065 and CRSII5-170873."
     ],
     "ReferencesAndLinks": [
-        "forthcoming",
+        "https://doi.org/10.1038/s41597-021-01116-1",
         "https://www.biorxiv.org/content/10.1101/2021.03.16.435599v1"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds003505.v1.0.3",
